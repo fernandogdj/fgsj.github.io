@@ -72,4 +72,4 @@ Participe do meu grupo de promoções e oferta:
 
 ---
 
-*☁️ Feito com curiosidade, café e muito terminal aberto.*
+*☁️ Feito com curiosidade, café e muito vscode e terminal aberto.*
