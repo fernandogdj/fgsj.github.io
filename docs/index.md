@@ -58,8 +58,6 @@ Ambiente pessoal para testes, aprendizado e auto-hospedagem:
 **🔄 Automação com n8n**  
 Workflows de automação para integrações, notificações e processos internos usando n8n self-hosted.
 
-**📄 Contracheque Processor**  
-Processamento automatizado de holerites — parsing, extração e geração de relatórios.
 
 **🚀 Simple API — AWS ECS Fargate**  
 Deploy de API Node.js no AWS com ECS Fargate, RDS PostgreSQL, CodePipeline e VPC/ALB via Terraform modular.
