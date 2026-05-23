@@ -68,7 +68,7 @@ Deploy de API Node.js no AWS com ECS Fargate, RDS PostgreSQL, CodePipeline e VPC
 
 ## 💬 Grupo de Promoções no WhatsApp
 
-Participe do grupo de promoções e ofertas que eu curado:
+Participe do meu grupo de promoções e oferta:
 
 [![Entrar no Grupo](https://img.shields.io/badge/📲_Entrar_no_Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](LINK_DO_GRUPO_AQUI)
 
