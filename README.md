@@ -98,8 +98,7 @@ Ambiente de laboratório pessoal para testes, aprendizado e auto-hospedagem:
 ### 🔄 [Automação com n8n](https://fernandogdj.github.io/fgsj.github.io/)
 Workflows de automação para integrações, notificações e processos internos usando n8n self-hosted.
 
-### 📄 Contracheque Processor
-Processamento automatizado de holerites — parsing, extração de dados e geração de relatórios.
+
 
 ### 🚀 Simple API — AWS ECS Fargate
 Deploy completo de API Node.js no AWS ECS Fargate com RDS PostgreSQL, CodePipeline, ECR e VPC/ALB — totalmente provisionado via **Terraform modular**.
