@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandogdj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fernandogdj)
-[![WhatsApp](https://img.shields.io/badge/Grupo_Promoções-25D366?style=flat-square&logo=whatsapp&logoColor=white)](LINK_DO_GRUPO_AQUI)
+[![WhatsApp](https://img.shields.io/badge/Grupo_Promoções-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Bu7WpRlQWCyFmQxZ4O5WBP)
 
 ---
 
@@ -68,7 +68,7 @@ Deploy de API Node.js no AWS com ECS Fargate, RDS PostgreSQL, CodePipeline e VPC
 
 Participe do meu grupo de promoções e oferta:
 
-[![Entrar no Grupo](https://img.shields.io/badge/📲_Entrar_no_Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](LINK_DO_GRUPO_AQUI)
+[![Entrar no Grupo](https://img.shields.io/badge/📲_Entrar_no_Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Bu7WpRlQWCyFmQxZ4O5WBP)
 
 ---
 
